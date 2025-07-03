@@ -23,7 +23,31 @@ The dashboard includes the following visualizations:
 * DAX (Data Analysis Expressions) – For calculated columns and measures
 * Power Query – For data transformation and cleaning
 ## Dataset
-<a href = "https://github.com/ishaalekh/hr_analytics/blob/main/HR%20Data.xlsx">Dataset</a>
+* <a href = "https://github.com/ishaalekh/hr_analytics/blob/main/HR%20Data.xlsx">Dataset</a>
+## Dashboard
+![HR Analytics Dashboard](https://github.com/user-attachments/assets/fcf667be-caf3-407b-a917-32ac3aba428f)
+## Final Conclusion
+The HR Analytics Dashboard provides valuable insights into the current workforce and attrition patterns across the organization. Key highlights from the dashboard are:
+* Total Employees: 1,470, with an active workforce of 1,233.
+* Attrition: 237 employees left the organization, resulting in an attrition rate of 16.12%.
+* Average Age: 37 years, with most employees falling in the 25-34 and 35-44 age groups.
+### Departments Most Affected by Attrition:
+* R&D: Highest attrition at 56.12%.
+* Sales: 38.82%.
+* HR: 5.06%.
+### Education Field Analysis:
+* Highest attrition observed among employees from Life Sciences and Medical backgrounds.
+### Gender & Age-Based Attrition:
+* Higher attrition rate seen among employees aged 25-34 and under 25, with notable gender differences in some age bands.
+### Job Satisfaction Insights:
+* Sales Executive and Laboratory Technician roles show the highest number of employees but also require attention due to mixed satisfaction levels.
+* Improvement opportunities in job roles with high attrition and low satisfaction scores.
+### Action Points:
+* Focus on retention strategies for R&D and Sales departments.
+* Prioritize career development programs for younger employees (under 35).
+* Address satisfaction concerns, especially for Sales Executive and Laboratory Technician roles.
+* Tailor retention strategies considering education backgrounds prone to attrition.
+
 
 
 
