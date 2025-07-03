@@ -18,6 +18,11 @@ The dashboard includes the following visualizations:
 * Power BI Desktop – For data visualization and dashboard development
 * DAX (Data Analysis Expressions) – For calculated columns and measures
 * Power Query – For data transformation and cleaning
+## Tools & Technologies
+* Power BI Desktop – For data visualization and dashboard development
+* DAX (Data Analysis Expressions) – For calculated columns and measures
+* Power Query – For data transformation and cleaning
+## Dataset
 
 
 
