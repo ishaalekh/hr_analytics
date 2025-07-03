@@ -23,7 +23,7 @@ The dashboard includes the following visualizations:
 * DAX (Data Analysis Expressions) – For calculated columns and measures
 * Power Query – For data transformation and cleaning
 ## Dataset
-
+<a href = "https://github.com/ishaalekh/hr_analytics/blob/main/HR%20Data.xlsx">Dataset</a>
 
 
 
